@@ -1,7 +1,7 @@
 # 🛒 Unsupervised Learning: Customer Segmentation (Clustering)
 
 **Description:**
-An Advanced Artificial Intelligence assignment focused on Unsupervised Machine Learning using K-Means Clustering. This project analyzes the [Wholesale Customers Dataset](https://archive.ics.uci.edu/dataset/292/wholesale+customers) sourced from the UCI Machine Learning Repository to identify distinct customer segments based on their annual spending behavior. Throught this assignment, I can perform knowledge discovery in finding hidden patterns in unlabelled data to inform business strategy without human supervision.z
+An Advanced Artificial Intelligence assignment focused on Unsupervised Machine Learning using K-Means Clustering. This assignment analyzes the [Wholesale Customers Dataset](https://archive.ics.uci.edu/dataset/292/wholesale+customers) sourced from the UCI Machine Learning Repository to identify distinct customer segments based on their annual spending behavior. Throught this assignment, I can perform knowledge discovery in finding hidden patterns in unlabelled data to inform business strategy without human supervision.z
 
 ---
 
@@ -17,7 +17,7 @@ An Advanced Artificial Intelligence assignment focused on Unsupervised Machine L
 
 ## 📂 Project Modules
 
-This repository contains the complete implementation and documentation for the Clustering assignment, focusing on the pipeline from data preprocessing to business insight extraction.
+This repository contains the complete implementation and documentation for the Clustering assignment. It focues on the pipeline from data preprocessing to business insight extraction.
 
 ### 1. Source Code: MLP from Scratch
 **File:** `UTM MECS1033 AAI Assignment 2 Clustering Code - Lau Su Hui MEC245045.py` in src folder
