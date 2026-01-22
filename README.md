@@ -86,5 +86,5 @@ The project demonstrates how the **K-Means Clustering algorithm** can organise c
 2. Small Standard Clients (Cluster 1): Moderate/Low spend across all categories (HoReCa).
 3. Fresh Food Specialists (Cluster 2): Massive outliers in Fresh & Frozen produce.
 * **Preprocessing Matters**: Standardising the data was critical; without it, the "Fresh" category (with values >100k) would have dominated the distance metric. This would render other features irrelevant.
-* **PCA Visualisation**: Proved that while the data lives in 6 dimensions, the customer behaviours can be effectively mapped and separated in a 2-dimentional plane which is lower dimensional.
+* **PCA Visualisation**: Proved that while the data lives in 6 dimensions (6D), the customer behaviours can be effectively mapped and separated in a 2-dimentional (2D) plane/space which is lower dimensional.
   
