@@ -20,7 +20,7 @@ An Advanced Artificial Intelligence assignment focused on Unsupervised Machine L
 This repository contains the complete implementation and documentation for the Clustering assignment, focusing on the pipeline from data preprocessing to business insight extraction.
 
 ### 1. Source Code: MLP from Scratch
-**File:** `UTM MECS1033 AAI Assignment 2 Code - Lau Su Hui MEC245045.py` in src folder
+**File:** `UTM MECS1033 AAI Assignment 2 Clustering Code - Lau Su Hui MEC245045.py` in src folder
 * **Dataset:** [UCI Wholesale Customers Data](https://archive.ics.uci.edu/dataset/292/wholesale+customers) (440 records, 6 features).
 * **Technique:** K-Means Clustering with the Elbow Method for optimal _k_ selection.
 * **Feature Engineering:** Implements `StandardScaler` to normalise high-variance data (e.g., preventing "Fresh" products from biasing the model).
@@ -28,7 +28,7 @@ This repository contains the complete implementation and documentation for the C
 
 
 ### 2. Project Report (Technical Analysis)
-**File:** `UTM MECS1033 AAI Assignment 2 Report - Lau Su Hui MEC245045.pdf` in report folder
+**File:** `UTM MECS1033 AAI Assignment 2 Clustering Report - Lau Su Hui MEC245045.pdf` in report folder
 * **AI Methodology**: Comprehensive breakdown of the Unsupervised Learning pipeline, including data normalization, dimensionality reduction (PCA), and centroid initialization (k-means++).
 * **Algorithm Evaluation**: Justification for the selected hyperparameter (k=3) using the Elbow Method heuristic to balance model complexity with Within-Cluster Sum of Squares (WCSS).
 * **Knowledge Discovery**: Analysis of how the model extracted latent structures from unlabelled data, demonstrating the capability of clustering algorithms to find meaningful patterns without prior training labels.
